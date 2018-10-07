@@ -1,4 +1,4 @@
-#Drawing geometric shapes using GLUT
+# Drawing geometric shapes using GLUT
 
 **_The OpenGL Utility Toolkit (GLUT) is a library of utilities for OpenGL programs._**
 
